@@ -1,0 +1,8 @@
+{
+    "overall_precision": 1.0,
+    "overall_recall": 0.16,
+    "overall_f1": 0.2758620689655173,
+    "overall_polarity_accuracy": 1.0,
+    "overall_bucket_accuracy": 1.0,
+    "overall_evidence_coverage_rate": 1.0
+}
